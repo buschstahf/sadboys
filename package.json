@@ -1,0 +1,13 @@
+{
+  "name": "SADBOYS",
+  "description": "Headquarters bot for SadBoys.",
+  "version": "0.0.0",
+  "main": "SADBOYS.js",
+  "scripts": {
+    "start": "node SADBOYS.js"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
+}
